@@ -138,11 +138,3 @@ This plot shows model performance comparison on MAE score.
 This project is under MIT license:
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
-## Feedback
-
-If you have any feedback, please reach out to me at *<aliamani019@gmail.com>*.
-
-## Authors
-
-[@AliAmani](https://github.com/MrAliAmani)
